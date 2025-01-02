@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jsplugins> 
+  <jspluginonline name="WpsOAAssist" url="http://127.0.0.1:3888/plugin/wps/" install="null" debug="" enable="enable_dev" type="wps"/>  
+  <jspluginonline name="WppOAAssist" url="http://127.0.0.1:3888/plugin/wpp/" install="null" debug="" enable="enable_dev" type="wpp"/>  
+  <jspluginonline name="EtOAAssist" url="http://127.0.0.1:3888/plugin/et/" install="null" debug="" enable="enable_dev" type="et"/> 
+</jsplugins>
